@@ -1,0 +1,16 @@
+{
+  "blogs": [
+    {
+      "title": "Sărbătorile de iarnă",
+      "body": "Sărbătorile de iarnă, așteptate cu plăcere de mulți dintre noi, aduc solicitări numeroase, ce schimbă rutina zilnică.Alergătura după cadouri, brad, cumpărături de tot felul, aglomerație, trafic intens, gătitul pentru masa de sărbătoare generează stres.Poate crește nivelul de stres, atât pozitiv (eustres – generează bucurie, optimism) cât și negativ (distres). Important este să reducem distresul, asociat cu o creștere a cortizolului și cu consecințe disfuncționale pentru organism.Anticiparea sărbătorilor cu relaxare, miros de brad și cozonac duce la o creștere a dopaminei. Timpul petrecut cu cei dragi, generează oxitocină.\nPersoanelor cu tulburări emoționale li se pot accentua stările, mai ales dacă nu au suport emoțional.Cei singuri se pot simți și mai singuri.Crăciunul acesta va fi altfel, cu întâlniri fizice mai puține și cu mai multă întâlnire în spațiul online.",
+      "author": "Elena",
+      "id": "2"
+    },
+    {
+      "id": "71ac",
+      "title": "dada",
+      "body": "nunu",
+      "author": "elena"
+    }
+  ]
+}
